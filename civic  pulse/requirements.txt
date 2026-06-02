@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+easyocr
+pillow
+opencv-python
+streamlit-mic-recorder
+openai-whisper
